@@ -1,4 +1,4 @@
-name: krichene & baklouti
+name: krichene
 output_dir: '.'
 navbar:
   title: site R avancé
@@ -6,11 +6,11 @@ type: inverse
 left:
   - text: Home
 icon: fa-home
-href: index.html
+href: projet.html
 
 output:
   html_document:
   highlight: textmate
-  css: style.css
+  css: nw.css
   lib_dir: site_libs
   self_contained: no
